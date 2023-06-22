@@ -1,9 +1,0 @@
-{
-    "db":{
-        "userName":"admin",
-        "password":"shir3006",
-        "collections":{
-            "meetups":"meetups"
-        }
-    }
-}
